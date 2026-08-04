@@ -1,0 +1,6 @@
+{
+  "name": "AssetMarket",
+  "description": "Digital product marketplace app featuring Customer store and Admin management for selling, downloading, and tracking digital assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
